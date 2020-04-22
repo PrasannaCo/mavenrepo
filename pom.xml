@@ -29,7 +29,6 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://18.188.172.61:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
