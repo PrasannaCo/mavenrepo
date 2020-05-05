@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-                      <url>http://3.12.41.122:8081/repository/maven-releases/</url>
+                      <url>http://3.12.166.179:8081/repository/maven-releases/</url>
      </repository>
         <snapshotRepository>
             <id>deployment</id>
